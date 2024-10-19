@@ -9,6 +9,29 @@ Welcome to the BillionGo Flutter app repository! BillionGo is a mobile billing a
 - **Manage Inventory**: Add and remove items from the inventory menu to keep track of available products.
 - **E-Signature Capability**: Users can e-sign documents directly within the app, simplifying the documentation process.
 
+## Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/3bbf1e70-8541-495b-99d2-8ab93c026971" width="210px" height="420px" alt="IMG-1"/></td>
+      <td><img src="https://github.com/user-attachments/assets/f71b2d9f-6f15-4821-88d3-29db8a4706dd" width="210px" height="420px" alt="IMG-2"/></td>
+      <td><img src="https://github.com/user-attachments/assets/51e84b8e-5484-47df-af46-454f4761a94f" width="210px" height="420px" alt="IMG-3"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/b12ac578-b074-443a-9569-abbc26e74151" width="280px" height="520px" alt="IMG-4"/></td>
+      <td><img src="https://github.com/user-attachments/assets/fa4e5952-8e6a-43b9-a3ff-73d958ec32c8" width="280px" height="520px" alt="IMG-5"/></td>
+      <td><img src="https://github.com/user-attachments/assets/d9961eb2-5278-42ef-916c-6c704a022f14" width="280px" height="520px" alt="IMG-6"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/0f5aaba4-357a-4de3-974f-5cd3608e8771" width="410px" height="520px" alt="IMG-7"/></td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 ## Technologies Used:
 
 - Flutter: A cross-platform framework for building mobile applications.
