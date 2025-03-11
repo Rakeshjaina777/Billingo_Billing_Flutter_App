@@ -33,7 +33,7 @@ class _PaymentnoteState extends State<Paymentnote> {
         title: CustomText(
           text: "Payment Information",
           color: AppColors.kPrimaryDark,
-          fontSize: 22,
+          fontSize: 20,
           weight: FontWeight.w700,
         ),
       ),
