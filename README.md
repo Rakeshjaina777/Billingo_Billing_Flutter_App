@@ -1,5 +1,5 @@
 
-# BillionGo Flutter App with Firebase Backend
+# BillionGo Flutter App with Nest JS Backend
 
 Welcome to the BillionGo Flutter app repository! BillionGo is a mobile billing app designed to assist small vendors in generating GST bills, managing their inventory, and enabling users to e-sign documents seamlessly.
 
