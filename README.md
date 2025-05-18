@@ -3,6 +3,8 @@
 
 Welcome to the BillionGo Flutter app repository! BillionGo is a mobile billing app designed to assist small vendors in generating GST bills, managing their inventory, and enabling users to e-sign documents seamlessly.
 
+Backend Git Repository :https://github.com/Rakeshjaina777/Billingo_NestJs_Backend
+
 ## Features:
 
 - **Generate GST Bills**: Create GST bills effortlessly using the BillionGo app.
